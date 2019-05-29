@@ -1,6 +1,6 @@
 #karma-telemetry
 
-> Adapter for running the [Chromium Telemetry](http://www.chromium.org/developers/telemetry) performance benchmarks for [Karma](https://github.com/karma-runner/karma).
+> Adapter for running the [Chromium Telemetry](https://chromium.googlesource.com/catapult/+/HEAD/telemetry/README.md) performance benchmarks for [Karma](https://github.com/karma-runner/karma).
 
 ## About
 This plugin runs with Karma and is ideal for testing the rendering performance of components in frameworks. It reports various rendering metrics like first paint time, mean frame time, load time, etc. It can be integrated with continuous integration systems to ensure that the performance of components do not degrade over time.
